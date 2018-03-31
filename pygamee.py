@@ -1,3 +1,5 @@
+#This game is an uncompleted game so there are some bugs.("EARLY ACCESS ALPHA :D")
+#Oyun tamamlanmış değildir o yüzden bazı buglar mevcut.
 import pygame
 x = pygame.init()
 display_height = 800
