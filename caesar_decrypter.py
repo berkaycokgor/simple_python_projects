@@ -1,3 +1,4 @@
+#Please report me if you realize that there is a bug etc.
 print("Caesar Cypher Decrypter #for english alphabet")
 def makelist(x): #First makes the text a string for easier process
     list = []
