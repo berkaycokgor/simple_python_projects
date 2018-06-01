@@ -1,4 +1,4 @@
-#This game is an uncompleted game so there are some bugs.("EARLY ACCESS ALPHA :D")
+#This game is an uncompleted game so there are some bugs.("EARLY ACCESS ALPHA :d")
 #Oyun tamamlanmış değildir o yüzden bazı buglar mevcut.
 import pygame
 x = pygame.init()
