@@ -2,7 +2,7 @@
 #Use python davidexp.py ip port
 #ip is vm's ip
 #port is web server's port
-#pip install requests with that module
+#pip install requests 
 
 import os
 import socket
