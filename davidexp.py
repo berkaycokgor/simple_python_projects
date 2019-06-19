@@ -14,7 +14,7 @@ def req():
 ip=sys.argv[1]
 port=int(sys.argv[2])
 s=socket.socket()
-for a in range(0,20):
+for a in range(0,21):
         try:
                 s.connect((ip,port))
         except:
